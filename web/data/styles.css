@@ -10,7 +10,15 @@
   line-height:normal;
   text-transform:none;
 }
-._图片_ {
+.box_1 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.ellipse {
+}
+._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -63,7 +71,7 @@
 }
 ._流程形状 {
 }
-._连接 {
+.table_cell {
 }
 .paragraph {
   text-align:left;
@@ -77,6 +85,13 @@
   font-size:32px;
   text-align:left;
 }
+.heading_2 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
 .label {
   font-size:14px;
   text-align:left;
@@ -84,10 +99,6 @@
 .horizontal_line {
 }
 .shape {
-}
-.box_1 {
-}
-.box_2 {
 }
 .image {
   color:#000000;
@@ -98,5 +109,33 @@
   font-style:normal;
   font-size:18px;
   color:#666666;
+}
+.radio_button {
+  text-align:left;
+}
+.form_disabled {
+}
+.refs-chart-data {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+.shape1 {
+  font-family:'PingFang SC Normal', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+.button {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
 }
 textarea, select, input, button { outline: none; }
